@@ -27,7 +27,7 @@ schedule:
       - name: Lecture
         start: 7:15 PM
         end: 9:15 PM
-        location: 27, rue Saint Pères B.103
+        location: 56, rue Saint Pères B.103
   - name: Tuesday
   - name: Wednesday
   - name: Thursday
